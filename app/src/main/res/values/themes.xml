@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Wavve" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#12071A</item>
+        <item name="android:navigationBarColor">#12071A</item>
+        <item name="android:windowBackground">#12071A</item>
+    </style>
+</resources>
